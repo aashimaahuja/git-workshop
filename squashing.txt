@@ -1,0 +1,2 @@
+Squashing commit 1
+Squashing commit 2
